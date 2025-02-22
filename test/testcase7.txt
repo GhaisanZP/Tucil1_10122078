@@ -1,0 +1,12 @@
+2 5 8
+DEFAULT
+T
+T
+U
+U
+C
+I
+L
+B
+E
+S

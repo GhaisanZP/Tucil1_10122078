@@ -1,0 +1,4 @@
+AAEIIIOUU
+AEEIIOOUU
+Waktu pencarian: 16 ms
+Jumlah iterasi yang dicek: 407

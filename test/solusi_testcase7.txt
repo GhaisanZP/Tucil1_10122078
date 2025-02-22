@@ -1,0 +1,4 @@
+TUCIL
+TUBES
+Waktu pencarian: 1 ms
+Jumlah iterasi yang dicek: 9

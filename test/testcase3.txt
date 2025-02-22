@@ -1,0 +1,13 @@
+4 5 5
+DEFAULT
+S
+S
+S
+S
+T
+T
+T
+T
+IIII
+MMMM
+AAAA

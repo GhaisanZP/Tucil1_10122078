@@ -1,0 +1,7 @@
+AGGGC
+AABCC
+EEBBF
+EEDFF
+EDDFF
+Waktu pencarian: 588 ms
+Jumlah iterasi yang dicek: 87839

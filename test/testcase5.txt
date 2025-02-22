@@ -1,0 +1,12 @@
+2 9 5
+DEFAULT
+AA
+A
+III
+II
+UU
+UU
+EE
+E
+O
+OO

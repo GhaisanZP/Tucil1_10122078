@@ -1,0 +1,4 @@
+ABCDEFGHIJKLM
+NOPQRSTUVWXYZ
+Waktu pencarian: 3 ms
+Jumlah iterasi yang dicek: 27
