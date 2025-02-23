@@ -43,7 +43,8 @@ Perintah ini akan mengompilasi file Java dari folder **src** dan menempatkan fil
 
 ### Menggunakan IDE:
 - **Eclipse:** Atur *Default Output Folder* ke **bin** melalui *Project Properties → Java Build Path → Source*.
-- **Visual Studio Code:** Tambahkan pengaturan berikut pada file
+- **Visual Studio Code:** Jalankan perintah:
+`javac -d bin src/Main.java`
 
 ## Cara Menjalankan dan Menggunakan Program
 ### Menjalankan Program
